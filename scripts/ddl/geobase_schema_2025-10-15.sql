@@ -1,6 +1,3 @@
--- DROP SCHEMA geobase;
-CREATE SCHEMA geobase AUTHORIZATION gisuser;
-
 -- Drop table
 -- DROP TABLE geobase.utah_county_boundary_ugrc;
 CREATE TABLE geobase.utah_county_boundary_ugrc (
